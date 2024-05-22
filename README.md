@@ -1,4 +1,4 @@
-# M5 - BandKamp Generic View
+# BandKamp
 
 ## Preparando ambiente para execução dos testes
 
