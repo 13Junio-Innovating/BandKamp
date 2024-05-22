@@ -38,8 +38,6 @@ source venv/Scripts/activate
 ```shell
 pip install pytest-testdox pytest-django
 ```
-6. Produzido por Junio Chaves
-Veja outros projetos em https://github.com/13Junio-Innovating
 
 ## Execução dos testes:
 
